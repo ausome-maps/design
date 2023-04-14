@@ -92,6 +92,7 @@
     - As a <>, I want to <>, so that I can <>    
     
   9. Platform managers, maintainers, and developers
+  
     - As a <>, I want to <>, so that I can <>
     - As a manager, I want to know the professionals who submitted any correction requests, so that I can update the information accurately.
     - As a manager, I want to update any information, so that I can maintain the platform's integrity. 
