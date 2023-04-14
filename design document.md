@@ -63,22 +63,32 @@
     - As a parent, I want to know of recreational activities that my child can do, so that I can help my child to develop other skills and gain various experiences.
     - As a parent, I want to know if the information about points of interest on the map is updated, so that I can be assured of its relevance in our decision-making.
     - As a parent, I want to know if the information about points of interest on the map is updated, so that I can be assured of its relevance in our decision-making.
-      
+    - As a parent, I want to submit reviews and recommendation about the points of interest, so that I can inform the community of my experience.
+    - As a parent, I want to submit questions to the professional or business owner, so that I can know the answer to my inquiry
+
   3. Professionals such as therapists, teachers, doctors, and others
   
-    - As a professional, I want to able to submit my details to the platform, so that I can be more discoverable.
-    - As a professional, I want to able to submit my details to the platform, so that I can be more discoverable.
+    - As a professional, I want to be able to submit my details to the platform, so that I can be more discoverable.
+    - As a professional, I want to update my profile, so that I can correct the information displayed.
+    - As a professional, I want to be able to manage my appointments in the platform, so that I can properly set my schedule throughout the day. 
+    - As a professional, I want to submit my credentials and/or certification, so that I can improve my professional reputation.
+    - As a professional, I want to know how my data will be used, so that I can be assured that it will not be used for other means.
       
-  5. Business owners (owners of clinics, therapy centers, art studios and so on)
+  5. Business owners (owners of clinics, therapy centers, art studios and so on)  
   
     - As a <>, I want to <>, so that I can <>
-        
+    - As a business owner, I want to be able to submit my details to the platform, so that I can be more discoverable.
+    - As a business owner, I want to update my profile, so that I can correct the information displayed.
+    - As a business owner, I want to be able to manage my appointments in the platform, so that I can properly set my schedule throughout the day. 
+    - As a business owner, I want to submit my credentials and/or certification, so that I can improve my business reputation.
+    - As a business owner, I want to know how my data will be used, so that I can be assured that it will not be used for other means.
+
   7. Related government agency officials
   
     - As a <>, I want to <>, so that I can <>    
     
   9. Platform managers, maintainers, and developers
-    
+    - As a manager, I want to know the professionals who submitted any correction requests, so that I can update the information accurately.
     - As a <>, I want to <>, so that I can <>
     
 
