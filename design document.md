@@ -1,3 +1,88 @@
-# Personas
-# Jobs-to-be-done
-# Epic, Themes, User Stories, and Tasks
+# Ausome Maps Platform Product Design Documentation
+
+## Product Pitch
+
+## Personas
+  1. Parents, family, primary and secodary guardians
+      
+      - *Profile*
+      - *Goal*
+      - *Challenges*
+      - *Personality*
+      - *Information sources*
+      - *Bio*
+      
+  3. Professionals such as therapists, teachers, doctors, dentist, and others
+        
+      - *Profile*
+      - *Goal*
+      - *Challenges*
+      - *Personality*
+      - *Information sources*
+      - *Bio*
+      
+  5. Business owners (owners of clinics, therapy centers, art studios and so on)
+        
+      - *Profile*
+      - *Goal*
+      - *Challenges*
+      - *Personality*
+      - *Information sources*
+      - *Bio*
+      
+  7. Related government agency officials
+        
+      - *Profile*
+      - *Goal*
+      - *Challenges*
+      - *Personality*
+      - *Information sources*
+      - *Bio*
+      
+  9. Platform managers, maintainers, and developers
+        
+      - *Profile*
+      - *Goal*
+      - *Challenges*
+      - *Personality*
+      - *Information sources*
+      - *Bio*
+      
+
+## Jobs-to-be-done
+  1. Parents, family, primary and secodary guardians    
+    
+    - As a parent, I want to be able to see the price range of the available services, so that I can compare which options are the best for our family.
+    - As a parent, I want to see the list of support groups available in my area, so that I can look for support and advise on how to raise my child in the best way possible.
+    - As a parent, I want to be able to filter the available information according to sservice availability, price, and etc, so that I can get to the best options as quickly as possible.
+    - As a parent, I want to know the developmental pediatricians near me, so that I can schedule an appointment to those with available slots.
+    - As a parent, I want to differentiate if the therapy center or the therapist is PAOT or PASP registered, so that I can be assured of their affiliation in the said professional organizations.
+    - As a parent, I want to know which places on the map were already validated, so that I can be assured of the information displayed on the platform.
+    - As a parent, I want to know if the therapy center/therapist is offering home-based therapy, so that I can quickly filter and compare options for home-based therapy.
+    - As a parent, I want to know of job opportunities or internship for my child, so that I can help my child to develop the needed skills to those opportunities.
+    - As a parent, I want to know of recreational activities that my child can do, so that I can help my child to develop other skills and gain various experiences.
+    - As a parent, I want to know if the information about points of interest on the map is updated, so that I can be assured of its relevance in our decision-making.
+    - As a parent, I want to know if the information about points of interest on the map is updated, so that I can be assured of its relevance in our decision-making.
+      
+  3. Professionals such as therapists, teachers, doctors, and others
+  
+    - As a professional, I want to able to submit my details to the platform, so that I can be more discoverable.
+    - As a professional, I want to able to submit my details to the platform, so that I can be more discoverable.
+      
+  5. Business owners (owners of clinics, therapy centers, art studios and so on)
+  
+    - As a <>, I want to <>, so that I can <>
+        
+  7. Related government agency officials
+  
+    - As a <>, I want to <>, so that I can <>    
+    
+  9. Platform managers, maintainers, and developers
+    
+    - As a <>, I want to <>, so that I can <>
+    
+
+## Epic, Themes, User Stories, and Tasks
+
+
+
