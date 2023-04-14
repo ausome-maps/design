@@ -64,7 +64,9 @@
     - As a parent, I want to know if the information about points of interest on the map is updated, so that I can be assured of its relevance in our decision-making.
     - As a parent, I want to know if the information about points of interest on the map is updated, so that I can be assured of its relevance in our decision-making.
     - As a parent, I want to submit reviews and recommendation about the points of interest, so that I can inform the community of my experience.
-    - As a parent, I want to submit questions to the professional or business owner, so that I can know the answer to my inquiry
+    - As a parent, I want to submit questions to the professional or business owner, so that I can know the answer to my inquiry.
+    - As a parent, I want to know the disability of the SPED school, so that I can determine if they can adequately support my child. 
+    - As a parent, I want to submit feedback to the platform maintainers, so that I can help in improving the platform.
 
   3. Professionals such as therapists, teachers, doctors, and others
   
@@ -73,6 +75,7 @@
     - As a professional, I want to be able to manage my appointments in the platform, so that I can properly set my schedule throughout the day. 
     - As a professional, I want to submit my credentials and/or certification, so that I can improve my professional reputation.
     - As a professional, I want to know how my data will be used, so that I can be assured that it will not be used for other means.
+    - As a professional, I want to submit feedback to the platform maintainers, so that I can help in improving the platform.
       
   5. Business owners (owners of clinics, therapy centers, art studios and so on)  
   
@@ -82,14 +85,17 @@
     - As a business owner, I want to be able to manage my appointments in the platform, so that I can properly set my schedule throughout the day. 
     - As a business owner, I want to submit my credentials and/or certification, so that I can improve my business reputation.
     - As a business owner, I want to know how my data will be used, so that I can be assured that it will not be used for other means.
+    - As a business owner, I want to submit feedback to the platform maintainers, so that I can help in improving the platform.
 
   7. Related government agency officials
   
     - As a <>, I want to <>, so that I can <>    
     
   9. Platform managers, maintainers, and developers
-    - As a manager, I want to know the professionals who submitted any correction requests, so that I can update the information accurately.
     - As a <>, I want to <>, so that I can <>
+    - As a manager, I want to know the professionals who submitted any correction requests, so that I can update the information accurately.
+    - As a manager, I want to update any information, so that I can maintain the platform's integrity. 
+    - As a manager, I want to manage the feedback, so that I can improve and maintain the platform.
     
 
 ## Epic, Themes, User Stories, and Tasks
